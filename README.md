@@ -8,6 +8,4 @@
 
 <h3>Sites I Love ✨</h3>
 
-- 🥀 <a href="https://community.codesociety.dev/">\<Code Society /></a>
-
 - 🥀 <a href="https://nocheprogramacion.com/links">ALSWnet - Noche de Programmacion</a>
