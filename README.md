@@ -2,9 +2,9 @@
 
 <h3>About me ✨</h3>
 
-- ☀️ I code in `.java`, `.cpp`
+- ☀️ I code in `.java` 
 - 🌎 Learning advanced Java, Android Development, and SQL
-- 🪐 I Love Reading, and teaching people
+- 🪐 I Love Reading
 
 <h3>Sites I Love ✨</h3>
 
