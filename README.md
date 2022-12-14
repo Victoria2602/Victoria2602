@@ -5,6 +5,7 @@
 - ☀️ I code in `.java` 
 - 🌎 Learning advanced Java, Android Development, and SQL
 - 🪐 I Love Reading
+- Fedora Operating System
 
 <h3>Sites I Love ✨</h3>
 
